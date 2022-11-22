@@ -4,7 +4,7 @@ Open your linux terminal || termux , then -
 
 ~ cd calander2022
 
-~ chmod +x ./c.sh
+~ chmod +x c.sh
 
 ~ ./c.sh
 
